@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1466762904 source:g:\wenhao.fu\research\code\registration\dft\main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"DemoDFT.h"
+	<iostream>
+
+1466784457 g:\wenhao.fu\research\code\registration\dft\include\femtotrack.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<opencv2/opencv.hpp>
+	<opencv/cxcore.hpp>
+
+1466782600 source:g:\wenhao.fu\research\code\registration\dft\src\femtotrack.cpp
+	"FemtoTrack.hpp"
+
+1466683259 g:\wenhao.fu\research\code\registration\dft\include\demodft.h
+	<opencv2/opencv.hpp>
+
+1466783611 source:g:\wenhao.fu\research\code\registration\dft\src\demodft.cpp
+	"DemoDFT.h"
+	"FemtoTrack.hpp"
+
